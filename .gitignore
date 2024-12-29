@@ -1,0 +1,12 @@
+# Ignore build artifacts
+*.o
+*.exe
+*.out
+*.a
+*.so
+
+# Ignore build directory
+build/
+
+# Ignore backup files
+*~
